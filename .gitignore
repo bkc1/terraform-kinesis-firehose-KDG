@@ -1,0 +1,11 @@
+.idea/*
+.idea
+.terraform
+*tfstate*
+.DS_Store
+/.DS_Store
+/*tfstate*
+/.terraform
+/keys/mykey*
+/testing
+/amazon-kinesis-producer
